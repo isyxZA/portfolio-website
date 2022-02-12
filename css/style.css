@@ -327,7 +327,7 @@ header {
 }
 
 .service {
-	max-width: 500px;
+	max-width: 300px;
 	margin: 0 auto;
 }
 
@@ -400,15 +400,14 @@ header {
 	padding-top: 4em;
 }
 
-.portfolio-games,
-.portfolio-web {
+.portfolio-games {
 	display: grid;
 	column-gap: 0.2em;
 	row-gap: 0.2em;
 	grid-template-columns: repeat(auto-fit, minmax(240px, 240px));
 	align-content: center;
 	justify-content: center;
-	max-width: 1000px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
