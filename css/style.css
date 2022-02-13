@@ -300,9 +300,9 @@ header {
 
 .my-services {
 	background-color: var(--clr-dark);
-	/* background-image: url(../img/Services-BG.jpg);
+	background-image: url(../img/BackGround.jpg);
 	background-size: cover;
-	background-blend-mode: multiply; */
+	background-blend-mode: multiply;
 	color: var(--clr-light);
 	text-align: center;
 }
@@ -392,9 +392,9 @@ header {
 
 .my-work {
 	background-color: var(--clr-dark);
-	/* background-image: url(../img/Services-BG.jpg);
+	background-image: url(../img/BackGround.jpg);
 	background-size: cover;
-	background-blend-mode: multiply; */
+	background-blend-mode: multiply;
 	color: var(--clr-light);
 	text-align: center;
 	padding-top: 4em;
